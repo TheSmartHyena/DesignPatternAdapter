@@ -1,3 +1,4 @@
+// ConcreteAdapter
 public class MediaAdapter implements IMediaPlayer {
     IAdvancedMediaPlayer advancedMusicPlayer;
 

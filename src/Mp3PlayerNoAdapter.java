@@ -1,3 +1,4 @@
+// ConcreteAdapter/ConcreteService
 public class Mp3PlayerNoAdapter implements IMediaPlayer {
     @Override
     public void play(String audioType, String fileName) {

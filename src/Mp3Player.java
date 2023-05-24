@@ -1,3 +1,4 @@
+// Client
 public class Mp3Player implements IMediaPlayer {
     MediaAdapter mediaAdapter;
 

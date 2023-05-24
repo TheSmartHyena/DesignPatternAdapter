@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        // Client
         Mp3PlayerNoAdapter mp3old = new Mp3PlayerNoAdapter();
         mp3old.play("mp3", "test.mp3");
         mp3old.play("mp4", "test.mp4");
